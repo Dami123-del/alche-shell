@@ -1,2 +1,2 @@
 #!/bin/bash
-my_var
+my_var=
