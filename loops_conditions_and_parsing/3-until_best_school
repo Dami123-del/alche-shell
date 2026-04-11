@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-#Working on 2-while_best_school
+#Working on 3-until_best_school
 i=1
-until [ $i -lt 11 ]; do
+until [ $i -gt 10 ]; do
 	echo "Best School"
 	((i++))
 done
